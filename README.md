@@ -1,45 +1,50 @@
 # Zach Wilson — Data Engineer (aka “eczachly”)
 
-## Join my [free data engineering boot camp](https://learn.dataexpert.io)!
+## 🚀 [Join my free Data Engineering Bootcamp](https://learn.dataexpert.io)
+
+---
 
 ## 🌐 Online Profiles
-- [**DataExpert.io**](https://www.dataexpert.io)
-- [**LinkedIn**](https://www.linkedin.com/in/eczachly): 
-- [**Instagram**](https://www.instagram.com/eczachly):
-- [**YouTube**](https://www.youtube.com/@eczachly_)
+
+[![Website](https://img.shields.io/badge/Website-DataExpert.io-blue?logo=google-chrome&logoColor=white)](https://www.dataexpert.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/eczachly)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/eczachly)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@eczachly_)
 
 ---
 
-## 🛠️ GitHub Repositories
+## 🛠️ Featured GitHub Repositories
 
-- **little-book-of-pipelines** – Scala-based guide to high variety data pipelines :contentReference[oaicite:3]{index=3}  
-- **video-game-training-sql** – SQL series with queries/data :contentReference[oaicite:4]{index=4}  
-- **microbatch-hourly-deduped-tutorial** – Python mini‑course on deduplication :contentReference[oaicite:5]{index=5}  
-- **personal-health-analytics** – Analyze health vs social media usage :contentReference[oaicite:6]{index=6}  
-- **DataExpert‑io/data‑engineer‑handbook** – Community-curated handbook for data engineers (34.8K★ stars, 6.7K forks) :contentReference[oaicite:8]{index=8}  
+- **[little-book-of-pipelines](https://github.com/eczachly/little-book-of-pipelines)** – Scala-based guide to building robust data pipelines
+- **[video-game-training-sql](https://github.com/eczachly/video-game-training-sql)** – SQL training series with realistic example data and queries
+- **[microbatch-hourly-deduped-tutorial](https://github.com/eczachly/microbatch-hourly-deduped-tutorial)** – Python tutorial on microbatch deduplication patterns
+- **[personal-health-analytics](https://github.com/eczachly/personal-health-analytics)** – Analyze health vs social media usage trends
+- **[DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** – The popular, community-curated Data Engineering Handbook (34.8K⭐, 6.7K forks)
 
 ---
 
-## 📺 Course & Bootcamp
+## 🎓 Courses & Bootcamps
 
-- **Data Engineer Handbook** – 2024 roadmap, interviews, projects, books, communities :contentReference[oaicite:10]{index=10}  
-- **Bootcamp (live)** – Launched May cohort; paused, rescheduled for Jan 2025 :contentReference[oaicite:11]{index=11}  
-- **Online/free bootcamp** – community-driven cohort, reviews from early participants :contentReference[oaicite:12]{index=12}  
+- **Data Engineer Handbook** – A complete roadmap with interviews, projects, books, and community recommendations
+- **Bootcamp (Live)** – Past cohorts include May 2024; new cohort planned for January 2025
+- **Online / Free Bootcamp** – Community-supported cohort with shared projects and peer reviews
 
 ---
 
 ## 💼 Career Highlights & Posts
 
-- **Career earnings growth** – Analyst → DE at Teradata → FAANG → Netflix → Airbnb, reaching $500–600K by 2023 :contentReference[oaicite:13]{index=13}  
-- **Philosophy threads**:  
-  - “You’re a data engineer, you don’t ‘use Spark and Kafka’ … focus on business outcomes” :contentReference[oaicite:14]{index=14}  
-  - “Data engineering isn’t just Spark … stop boiling roles down to one technology” :contentReference[oaicite:15]{index=15}  
-- **Learning roadmap (10 months ago)**: SQL → modeling → Python → quality → distributed compute → orchestration → big tools :contentReference[oaicite:16]{index=16}  
+- 📈 **Career trajectory**: Analyst → Data Engineer at Teradata → FAANG → Netflix → Airbnb (earning $500–600K by 2023)
+- ✍️ **Popular philosophy posts**:
+  - *"You’re a data engineer, you don’t ‘use Spark and Kafka’ … focus on business outcomes"*
+  - *"Data engineering isn’t just Spark … stop boiling roles down to one technology"*
+- 🗺️ **Learning roadmap**: SQL → Data modeling → Python → Data quality → Distributed compute → Orchestration → Big data tools
 
 ---
 
 ## 📝 Summary
 
-Zach Wilson (“eczachly”) is a high-impact data engineer, educator, open‑source contributor, and community leader. His work spans practical repositories, a widely‑used handbook, live bootcamp cohorts, and influential social‑media posts. His guidance—from mindset to concrete technical roadmaps—makes him a go‑to authority in the data engineering world.
+Zach Wilson (“eczachly”) is a high-impact data engineer, educator, and open-source contributor. His work includes practical example repositories, the most-starred Data Engineering Handbook on GitHub, live bootcamp cohorts, and widely-shared industry insights. His guidance—from strategic mindset to detailed technical roadmaps—makes him one of the most trusted voices in the data engineering community.
 
 ---
+
+*Last updated: July 2025*
